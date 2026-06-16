@@ -166,7 +166,7 @@ I'm always excited to collaborate on interesting projects, discuss innovative id
 
 | 📧 Email | 💼 LinkedIn | 🐙 GitHub | 🌐 Portfolio |
 |----------|-----------|---------|------------|
-| [Contact](mailto:suvajit.dev@email.com) | [suvajit04](https://linkedin.com/in/suvajit04) | [Follow](https://github.com/suvajit04) | [Visit](https://suvajitportfolio.netlify.app) |
+| [Contact](suvajitsahoo2004@gmail.com) | [suvajit04](https://linkedin.com/in/suvajit04) | [Follow](https://github.com/suvajit04) | [Visit](https://suvajitportfolio.netlify.app) |
 
 </div>
 
