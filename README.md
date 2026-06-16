@@ -14,7 +14,7 @@
 
 ## 🎯 About Me
 
-I'm a passionate developer dedicated to building intelligent, scalable web applications and AI-powered solutions. With expertise across the full stack, I love turning ideas into reality through clean code and innovative thinking.
+I'm a passionate developer dedicated to building intelligent, scalable web applications and AI-powered solutions. With expertise across the full stack, I love turning ideas into reality through clean code and innovative solutions.
 
 **Specializations:**
 - 🧠 **AI/ML Development** - Computer Vision, NLP, Deep Learning
@@ -166,7 +166,7 @@ I'm always excited to collaborate on interesting projects, discuss innovative id
 
 | 📧 Email | 💼 LinkedIn | 🐙 GitHub | 🌐 Portfolio |
 |----------|-----------|---------|------------|
-| [Contact](mailto:suvajit.dev@email.com) | [suvajit04](https://linkedin.com/in/suvajit04) | [Follow](https://github.com/suvajit04) | [Visit](https://suvajit04.github.io) |
+| [Contact](mailto:suvajit.dev@email.com) | [suvajit04](https://linkedin.com/in/suvajit04) | [Follow](https://github.com/suvajit04) | [Visit](https://suvajitportfolio.netlify.app) |
 
 </div>
 
