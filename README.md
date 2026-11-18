@@ -166,7 +166,7 @@ I'm always excited to collaborate on interesting projects, discuss innovative id
 
 | 📧 Email | 💼 LinkedIn | 🐙 GitHub | 🌐 Portfolio |
 |----------|-----------|---------|------------|
-| [Contact](suvajitsahoo2004@gmail.com) | [suvajit04](https://linkedin.com/in/suvajit04) | [Follow](https://github.com/suvajit04) | [Visit](https://kaleidoscopic-madeleine-9df624.netlify.app/) |
+| [Contact](suvajitsahoo2004@gmail.com) | [suvajit04](https://www.linkedin.com/in/suvajit-sahoo) | [Follow](https://github.com/suvajit04) | [Visit](https://suvajitportfolioo.netlify.app/) |
 
 </div>
 
