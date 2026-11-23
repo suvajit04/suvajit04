@@ -78,12 +78,18 @@ I’m a developer interested in creating useful, scalable products across the fu
 
 ---
 
-## Get in touch
-
-Interested in collaborating or discussing a project? Reach me via [LinkedIn](https://www.linkedin.com/in/suvajit-sahoo), [email](mailto:suvajitsahoo2004@gmail.com), or visit my [portfolio](https://suvajitportfolioo.netlify.app/).
-
 <div align="center">
 
-*Thanks for stopping by.*
+## Let's Connect
+
+I’m open to collaboration, innovative ideas, and meaningful opportunities.
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white)](https://suvajitportfolioo.netlify.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suvajit-sahoo)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/suvajit04)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:suvajitsahoo2004@gmail.com)
+
+**Have a project in mind or want to discuss an idea?**  
+Let’s build something valuable together.
 
 </div>
