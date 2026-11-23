@@ -38,6 +38,17 @@ I'm a passionate developer dedicated to building intelligent, scalable web appli
 
 ---
 
+### 🩸 [Sweety — Blood Glucose Tracker](https://github.com/suvajit04/Sweety_Blood-Glucose-Tracker)
+> A health-focused application for tracking blood glucose information and supporting informed wellness decisions.
+
+**Highlights:**
+- Personal Health Data Tracking
+- Modern, Responsive Interface
+- User-Friendly Data Management
+- **Tech**: TypeScript
+
+---
+
 ### 🎯 [Quiz Web Application](https://github.com/suvajit04/Quiz_web)
 > A fun and interactive quiz game with real-time scoring and leaderboard tracking.
 
@@ -51,6 +62,28 @@ I'm a passionate developer dedicated to building intelligent, scalable web appli
 
 ---
 
+### 📋 [Internal Engineering Task Management System](https://github.com/suvajit04/Internal-Engineering-Task-Management-System)
+> A full-stack system designed to manage engineering tasks and organize internal project workflows.
+
+**Highlights:**
+- Task and Workflow Management
+- Backend and Frontend Architecture
+- Internal Engineering Operations
+- **Explore**: [Frontend](https://github.com/suvajit04/Internal-Engineering-Task-Management-System-Frontend)
+
+---
+
+### 🏢 [IvyLeague CSforall Academy Management Backend](https://github.com/suvajit04/Ivyleague-Csforall-Academy-Pvt-Ltd-Management-Backend)
+> A backend solution for managing academy operations, records, and administrative workflows.
+
+**Highlights:**
+- Administrative Management
+- Backend Service Architecture
+- Scalable Application Structure
+- **Focus**: Business and Academy Operations
+
+---
+
 ### 📊 [Shopify Analytics](https://github.com/suvajit04/shopify-analytics)
 > Comprehensive analytics and business intelligence solution for Shopify stores.
 
@@ -59,6 +92,18 @@ I'm a passionate developer dedicated to building intelligent, scalable web appli
 - Business Insights
 - Analytics Dashboard
 - **Tech**: Python, Data Analysis
+
+---
+
+### 💼 [Developer Portfolio](https://github.com/suvajit04/suvajit-portfolio)
+> A modern developer portfolio showcasing professional experience, technical skills, and selected projects.
+
+**Highlights:**
+- Responsive Portfolio Experience
+- Project and Skills Showcase
+- Professional Profile Presentation
+- **Tech**: TypeScript
+- **Live Website**: [Visit Portfolio](https://suvajitportfolioo.netlify.app/)
 
 ---
 
@@ -81,6 +126,7 @@ I'm a passionate developer dedicated to building intelligent, scalable web appli
   <p>
     <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
     <img src="https://img.shields.io/badge/HTML5-E34C26?style=flat&logo=html5&logoColor=white" />
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
   </p>
@@ -166,7 +212,7 @@ I'm always excited to collaborate on interesting projects, discuss innovative id
 
 | 📧 Email | 💼 LinkedIn | 🐙 GitHub | 🌐 Portfolio |
 |----------|-----------|---------|------------|
-| [Contact](suvajitsahoo2004@gmail.com) | [suvajit04](https://www.linkedin.com/in/suvajit-sahoo) | [Follow](https://github.com/suvajit04) | [Visit](https://suvajitportfolioo.netlify.app/) |
+| [Contact](mailto:suvajitsahoo2004@gmail.com) | [suvajit04](https://www.linkedin.com/in/suvajit-sahoo) | [Follow](https://github.com/suvajit04) | [Visit](https://suvajitportfolioo.netlify.app/) |
 
 </div>
 
