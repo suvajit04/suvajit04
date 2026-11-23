@@ -6,7 +6,10 @@
 
 Building practical web applications and exploring intelligent software solutions.
 
-[Portfolio](https://suvajitportfolioo.netlify.app/) · [LinkedIn](https://www.linkedin.com/in/suvajit-sahoo) · [GitHub](https://github.com/suvajit04) · [Email](mailto:suvajitsahoo2004@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white)](https://suvajitportfolioo.netlify.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suvajit-sahoo)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/suvajit04)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:suvajitsahoo2004@gmail.com)
 
 </div>
 
